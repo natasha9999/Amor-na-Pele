@@ -8,6 +8,7 @@ Projeto final de avaliação da squad 09, do curso de formação FullStack/ Reco
 Foi solicitado criar uma solução ttecnológica em benefício de Mulheres.
 
 ## Conheça o pitch de apresentação
+https://github.com/patricia-campos/Amor-na-Pele/blob/e3a010355de6c1d3d38035743a12b1bcbd12a4de/Apresentacao.pdf
 
 ## Vídeo demo da solução
 https://youtu.be/97UgLAUMmC4
